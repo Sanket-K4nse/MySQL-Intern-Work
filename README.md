@@ -2,6 +2,8 @@
 
 I've successfully completed my MySQL coding project as part of my internship at AiVariant. This experience has significantly enhanced my skills in database management, query optimization, and data analysis. Grateful for the opportunity to apply my learning in a real-world setting and contribute to meaningful projects.
 
+You can find the word file questionnaire attachment.
+
 ![Screenshot 2024-06-21 145109](https://github.com/Sanket-K4nse/Buisness_Insights_360/assets/161265478/a0f73b4d-5614-4294-b52e-d78f19d2fc40)
 
 ![Screenshot 2024-06-21 145120](https://github.com/Sanket-K4nse/Buisness_Insights_360/assets/161265478/84654e47-ce86-4806-8ff8-f8a7a5f22761)
